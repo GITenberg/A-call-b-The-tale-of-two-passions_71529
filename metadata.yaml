@@ -1,5 +1,8 @@
 _repo: A-call-b-The-tale-of-two-passions_71529
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71529-h/images/cover.jpg
 creator:
   author:
     agent_name: Ford, Ford Madox
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1016
     wikipedia: https://en.wikipedia.org/wiki/Ford_Madox_Ford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71529#A-call-b-The-tale-of-two-passions
 gutenberg_issued: '2023-08-31'
 identifiers:
   gutenberg: '71529'
